@@ -1,0 +1,2 @@
+imageprocess:package:strategy:tku_libs:tku_msgs:usb_cam:walkinggait
+-DCATKIN_DEVEL_PREFIX=/home/iclab/OBS/devel -DCMAKE_INSTALL_PREFIX=/home/iclab/OBS/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/iclab/OBS/install
+
+Name: strategy
+Description: Description of strategy
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: 
